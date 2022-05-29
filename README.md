@@ -6,6 +6,7 @@ A 3-day workshop on Blockchain Applications is been organised at Ravindra Colleg
 <img src="https://raw.githubusercontent.com/madblocksgit/ETAI-2021---VSSUT-11th-aug-iot-session/main/maddy.jpg" height="300" width="200" />
 
 Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
+
 # Content
 
 1. Introduction to Blockchain
@@ -19,6 +20,22 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 9. Creating Dapp using Smart Contract
 10. Truffle Suite
 11. Blockchain Demos
+
+# Softwares
+
+1. Nodejs (www.nodejs.org)
+2. Truffle (npm install truffle)
+3. Visual Studio (https://visualstudio.microsoft.com/)
+4. Visual Studio Code (https://code.visualstudio.com/)
+5. Ganache (https://trufflesuite.com/ganache/)
+6. Remix (https://remix.ethereum.org/)
+7. Metamask (https://metamask.io/)
+8. Python (www.python.org)
+
+# Python Packages
+
+1. pip install flask
+2. pip install web3
 
 # Projects
 
